@@ -1,5 +1,5 @@
 # hola-mundo
 
-##titulo mas chico 
+## titulo mas chico 
 este es mi primer reposito
 
